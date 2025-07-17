@@ -25,11 +25,10 @@ npm run dev
 ```
 ## 📸 Output Screenshots
 
-### Admin Dashboard
-![Homescreen Dashboard](output/Home Screen.png)
+
 
 ### Shop Dashboard
-![Shop Dashboard](screenshots/shop_dashboard.png)
+![Shop Dashboard](output/Home Screen.png)
 
 
 ## What technologies are used for this project?
