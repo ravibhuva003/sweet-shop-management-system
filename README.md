@@ -20,6 +20,7 @@ cd <YOUR_PROJECT_NAME>
 # Step 3: Install the necessary dependencies.
 npm i
 
+
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
@@ -28,7 +29,7 @@ npm run dev
 
 
 ### Shop Dashboard
-![Shop Dashboard](output/Home Screen.png)
+![Shop Dashboard]<img width="1365" height="767" alt="Home Screen" src="https://github.com/user-attachments/assets/2af5f0e0-2356-4cb3-b920-44a4bea471d9" />
 
 
 ## What technologies are used for this project?
