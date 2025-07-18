@@ -28,7 +28,7 @@ npm run dev
 
 
 ### Shop Dashboard
-![Shop Dashboard](output/Home Screen.png)
+![Shop Dashboard](/outputs/Home Screen.png)
 
 
 ## What technologies are used for this project?
