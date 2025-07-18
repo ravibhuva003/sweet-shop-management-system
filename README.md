@@ -29,7 +29,19 @@ npm run dev
 
 
 ### Shop Dashboard
-![Shop Dashboard]<img width="1365" height="767" alt="Home Screen" src="https://github.com/user-attachments/assets/2af5f0e0-2356-4cb3-b920-44a4bea471d9" />
+<img width="1365" height="767" alt="Home Screen" src="https://github.com/user-attachments/assets/2af5f0e0-2356-4cb3-b920-44a4bea471d9" />
+
+### Add Sweet
+<img width="1365" height="767" alt="addSweet" src="https://github.com/user-attachments/assets/1d8cabdb-d4b3-4471-b34a-029bc210257c" />
+
+### Filter Sweets
+<img width="1365" height="767" alt="Filter" src="https://github.com/user-attachments/assets/7143a2bb-242a-4646-ae0d-e3afda570675" />
+
+### Sweet Items
+<img width="1365" height="767" alt="Items" src="https://github.com/user-attachments/assets/498099d8-fbfd-44d6-b2d0-690bc041588f" />
+
+### Search Sweets
+<img width="1365" height="767" alt="Search Item" src="https://github.com/user-attachments/assets/47108a77-d216-4b46-b187-3126e5e697f2" />
 
 
 ## What technologies are used for this project?
